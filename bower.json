@@ -1,5 +1,5 @@
 {
-  "name": "parse",
+  "name": "latest-parse",
   "version": "1.6.9",
   "main": [
     "parse.min.js"
