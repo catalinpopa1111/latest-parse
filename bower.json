@@ -1,0 +1,13 @@
+{
+  "name": "parse",
+  "version": "1.6.9",
+  "main": [
+    "parse.min.js"
+  ],
+  "keywords": [
+    "parse",
+    "parse.com",
+    "api",
+    "js"
+  ]
+}
